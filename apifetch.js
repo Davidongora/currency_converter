@@ -6,7 +6,7 @@ const options = {
     method: 'GET',
     headers: {
         accept: 'application-json',
-        'X-API-KEY': 'f53b14db7658d93aeb2f8589838b87e01d730d82b9c73e9878065452902790b7'
+        'X-API-KEY': 'fab897242bf18d6aac07f41bfd2ec3be75569b01bcea0d1ce5efdad30306a060'
     }
 };
     const apiUrl = 'https://api.chimoney.io/v0.2/info/usd-amount-in-local?destinationCurrency=USD&amountInUSD=1'
